@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MenuScript/loading.cs">
+    <Files>
+      <File FileName="Assets/MenuScript/loading.cs" Line="14" Column="3" />
+      <File FileName="Assets/MenuScript/ShareFacebook.cs" Line="57" Column="5" NotebookId="1" />
+      <File FileName="Assets/SnakeScripts/SnakeMovement.cs" Line="88" Column="93" NotebookId="1" />
+      <File FileName="Assets/MenuScript/BackMenu.cs" Line="9" Column="2" NotebookId="1" />
+      <File FileName="Assets/MenuScript/ShowScore.cs" Line="21" Column="1" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
